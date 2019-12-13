@@ -39,11 +39,6 @@ java -jar /opt/nfs/share/biosoft/picard-tools-1.114/CreateSequenceDictionary.jar
     REFERENCE=/ref/Spurpurea/assembly/Spurpurea_289_v1.0.fa \
     OUTPUT=/ref/Spurpurea/assembly/Spurpurea_289_v1.0.dict
 
-
-## blastdb
-makeblastdb -dbtype nucl -in /ref/Spurpurea/assembly/Spurpurea_289_v1.0.fa \
-    -title Bdistachyon_314_v3.0 \
-    -out /ref/Spurpurea/assembly/Spurpurea_289_v1.0.fa
 ######################################################################
 
 
