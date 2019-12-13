@@ -18,5 +18,5 @@ process to screen out candidate snv sites
 #indel_process 
 process to screen out candidate insertion and deletion sites
 
-#screen-branch-specific-snv
-pipeline to screen out branch specific snv sites through the snv_process
+#screen-branch-specific-lack
+pipeline to screen out snv sites through the snv_process lack in specific branch
