@@ -19,4 +19,4 @@ process to screen out candidate snv sites
 process to screen out candidate insertion and deletion sites
 
 #screen-branch-specific-lack
-pipeline to screen out snv sites through the snv_process lack in specific branch
+pipeline to screen out snv sites(through the snv_process) shared by branches(BR-m)
