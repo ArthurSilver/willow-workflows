@@ -26,5 +26,6 @@ shell script to process to screen out candidate insertion and deletion sites
 perl script to screen out snv sites(through the snv_process) shared by branches(BR-m)
 
 **simulation**
+---------------------------------------------------
 ### simulation
 shell script to simulate mutation detect pipeline to evaluate this method's FNR
