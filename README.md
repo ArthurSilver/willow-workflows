@@ -17,7 +17,7 @@ shell script to collect preliminary statistics about samples bam file
 shell script to call mutation sites using GATK
 
 ### 2.snv_process.sh
-shell script to process to screen out candidate snv sites
+shell script to screen out candidate snv sites
 
 ### 3.indel_process.sh 
 shell script to process to screen out candidate insertion and deletion sites
