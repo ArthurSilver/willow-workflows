@@ -2,30 +2,30 @@
 ==================================================
 **prepare and mapping**
 ---------------------------------------------
-### salix-ref-preparation
+### 1.salix-ref-preparation.sh
 shell script to create index and collect preliminary statistics about reference
 
-### willow_mapping
+### 2.willow_mapping.sh
 shell script to align sequence file to reference
 
-### willow_preprocessing
+### 3.willow_preprocessing.sh
 shell script to collect preliminary statistics about samples bam file
 
-**detecr mutation**
+**detect mutation**
 --------------------------------------------
-### willow_call_mutation
+### 1.willow_call_mutation.sh
 shell script to call mutation sites using GATK
 
-### snv_process
+### 2.snv_process.sh
 shell script to process to screen out candidate snv sites
 
-### indel_process 
+### 3.indel_process.sh 
 shell script to process to screen out candidate insertion and deletion sites
 
-### screen-branch-specific-lack
+### 4.screen-branch-specific-lack.pl
 perl script to screen out snv sites(through the snv_process) shared by branches(BR-m)
 
 **simulation**
 ---------------------------------------------------
-### simulation
+### 1.simulation.sh
 shell script to simulate mutation detect pipeline to evaluate this method's FNR
