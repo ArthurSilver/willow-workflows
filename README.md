@@ -1,5 +1,7 @@
-# willow-workflows
-
+**# willow-workflows**
+==================================================
+**prepare and mapping**
+---------------------------------------------
 #salix-ref-preparation
 create index and collect preliminary statistics about reference
 
@@ -9,6 +11,8 @@ align sequence file to reference
 #willow_preprocessing
 collect preliminary statistics about samples bam file
 
+**detecr mutation**
+--------------------------------------------
 #willow_call_mutation
 call mutation sites using GATK
 
@@ -21,5 +25,6 @@ process to screen out candidate insertion and deletion sites
 #screen-branch-specific-lack
 pipeline to screen out snv sites(through the snv_process) shared by branches(BR-m)
 
+**simulation**
 #simulation
 simulate mutation detect pipeline to evaluate this method's FNR
