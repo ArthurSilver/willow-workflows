@@ -7,3 +7,5 @@ Those synthetic mutations could be used to test the false-negative rate of a cer
 Keightley, P. D., Ness, R. W., Halligan, D. L. & Haddrill, P. R. Estimation of the Spontaneous Mutation Rate per Nucleotide Site in a Drosophila melanogaster Full-Sib Family. Genetics 196, 313¨C320 (2014).
 
 Keightley, P. D. et al. Estimation of the Spontaneous Mutation Rate in Heliconius melpomene. Mol Biol Evol 32, 239¨C243 (2015).
+
+**simulation result in paper is generated from root and leaf samples seperated
