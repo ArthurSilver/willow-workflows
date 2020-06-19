@@ -8,4 +8,4 @@ Keightley, P. D., Ness, R. W., Halligan, D. L. & Haddrill, P. R. Estimation of t
 
 Keightley, P. D. et al. Estimation of the Spontaneous Mutation Rate in Heliconius melpomene. Mol Biol Evol 32, 239¨C243 (2015).
 
-**simulation result in paper is generated from root and leaf samples seperated
+**PS simulation result in paper is generated from root and leaf samples seperated**
