@@ -20,3 +20,6 @@ process to screen out candidate insertion and deletion sites
 
 #screen-branch-specific-lack
 pipeline to screen out snv sites(through the snv_process) shared by branches(BR-m)
+
+#simulation
+simulate mutation detect pipeline to evaluate this method's FNR
