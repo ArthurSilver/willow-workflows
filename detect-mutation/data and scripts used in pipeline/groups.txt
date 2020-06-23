@@ -50,7 +50,6 @@
 55-r2	YAF1_group_F_6
 47-3	YAF1_group_F_7
 47-r1	YAF1_group_F_7
-47-r2-1	YAF1_group_F_7
 47-r2-3	YAF1_group_F_7
 58-1	YAF1_group_G
 63-1	YAF1_group_H
